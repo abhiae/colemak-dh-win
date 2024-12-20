@@ -21,9 +21,9 @@ system default in the language settings.
 ## Building from source
 
 Download the source file and load it to the Microsoft Keyboard Layout Creator (MSKLC) to
-build the binaries. 
+build the binaries.
 
-*Note:* While some customization can be done in MSKLC itself, it is recommended to
+_Note:_ While some customization can be done in MSKLC itself, it is recommended to
 directly edit the source file instead when making changes. Editing keys in MSKLC will
 only remap their output but won't change the underlying key event, creating
 inconsistencies when using modifiers.
@@ -36,3 +36,7 @@ AHK and kmonad to implement additional goodies on top of this configuration such
 [home row mods](https://precondition.github.io/home-row-mods), dual-function
 `space`/`shift` key, `z` on left shift, `backspace` on right alt, `esc`/`ctrl` on
 capslock, and others.)
+
+## My changes
+
+Just updated layout that matches with the Colemak-DH Angled MOD, updated the source file, binaries and showcase image.
